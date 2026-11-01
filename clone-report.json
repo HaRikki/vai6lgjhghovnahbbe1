@@ -1,0 +1,13 @@
+{
+  "project_name": "vercel.app",
+  "original_url": "https://topup-testing-demo.vercel.app/",
+  "cloned_at": "2026-11-01T08:27:37.802728+00:00",
+  "stats": {
+    "pages": 3,
+    "assets": 19,
+    "errors": [],
+    "domain": "vercel.app"
+  },
+  "errors": [],
+  "note": "Partial clones list missing assets in the errors array."
+}
